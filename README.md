@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Husnamehween
-- 👀 I’m interested in creating website
+- 👀 I’m interested in creating websites and deploying them, I have learned front-end development (HTML, CSS, JS)
 - 🌱 I’m currently learning backend development
 
 
